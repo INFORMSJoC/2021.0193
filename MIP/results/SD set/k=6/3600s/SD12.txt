@@ -1,4 +1,0 @@
-Spend time:3603s
-Objective value:inf
-Objective bound:79780.15544084196
-the problem can't be solved in this scenario!

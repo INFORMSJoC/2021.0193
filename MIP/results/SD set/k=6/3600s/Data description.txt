@@ -1,3 +1,0 @@
-X[i,j,k,l]:  x vector in EC.25
-service[i,j,k]: y vector in EC.22
-remaining_capacity[i,j,k]:z vector in EC.24
