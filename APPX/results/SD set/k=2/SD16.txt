@@ -1,0 +1,111 @@
+The minimum cost is:312723
+The run time is: 469.771 (s) 
+The route and corresponding demands serviced:
+1    8_60    7_40    1    total service:100
+1    7_50    6_50    1    total service:100
+1    6_10    5_90    1    total service:100
+1    5_0    4_60    9_40    1    total service:100
+1    9_50   10_50    1    total service:100
+1   11_90   10_10    1    total service:100
+1   11_0   12_60   13_40    1    total service:100
+1   14_50   13_50    1    total service:100
+1   14_10   15_90    1    total service:100
+1   15_0   16_60   17_40    1    total service:100
+1   17_50   18_50    1    total service:100
+1   19_90   18_10    1    total service:100
+1   19_0   20_60   21_40    1    total service:100
+1   21_50   22_50    1    total service:100
+1   22_10   23_90    1    total service:100
+1   25_40   24_60   23_0    1    total service:100
+1   25_50   26_50    1    total service:100
+1   26_10   27_90    1    total service:100
+0   29_40   28_60   27_0    0    total service:100
+0   29_50   30_50    0    total service:100
+0   30_10   31_90    0    total service:100
+0   32_60   31_0   33_40    0    total service:100
+0   33_50   34_50    0    total service:100
+0   34_10   35_90    0    total service:100
+0   37_40   36_60   35_0    0    total service:100
+0   37_50   38_50    0    total service:100
+0   39_90   38_10    0    total service:100
+0   39_0   40_60   41_40    0    total service:100
+0   41_50   42_50    0    total service:100
+0   43_90   42_10    0    total service:100
+0   43_0   44_60   45_40    0    total service:100
+0   45_50   46_50    0    total service:100
+0   47_90   46_10    0    total service:100
+0   47_0   48_60   49_40    0    total service:100
+0   50_50   49_50    0    total service:100
+0   50_10   51_90    0    total service:100
+0   51_0   52_60   53_40    0    total service:100
+0   53_50   54_50    0    total service:100
+0   55_90   54_10    0    total service:100
+0   55_0   56_60   57_40    0    total service:100
+0   57_50   58_50    0    total service:100
+0   58_10   59_90    0    total service:100
+0   61_40   60_60   59_0    0    total service:100
+0   61_50   62_50    0    total service:100
+0   62_10   63_90    0    total service:100
+0   63_0   64_60   65_40    0    total service:100
+0   65_50   66_50    0    total service:100
+0   66_10   67_90    0    total service:100
+1   68_60   67_0   69_40    1    total service:100
+1   69_50   70_50    1    total service:100
+1   70_10   71_90    1    total service:100
+1   73_40   72_60   71_0    1    total service:100
+1   73_50    2_50    1    total service:100
+1    3_90    2_10    1    total service:100
+1    3_0  136_60  135_40    1    total service:100
+0  135_50  134_50    0    total service:100
+0  134_10  133_90    0    total service:100
+0  132_60  133_0  131_40    0    total service:100
+0  131_50  130_50    0    total service:100
+0  129_90  130_10    0    total service:100
+0  129_0  128_60  127_40    0    total service:100
+0  127_50  126_50    0    total service:100
+0  126_10  125_90    0    total service:100
+0  124_60  125_0  123_40    0    total service:100
+0  122_50  123_50    0    total service:100
+0  122_10  121_90    0    total service:100
+0  121_0  120_60  119_40    0    total service:100
+0  119_50  118_50    0    total service:100
+0  118_10  117_90    0    total service:100
+0  117_0  116_60  115_40    0    total service:100
+0  114_50  115_50    0    total service:100
+0  114_10  113_90    0    total service:100
+0  113_0  112_60  111_40    0    total service:100
+0  111_50  110_50    0    total service:100
+0  109_90  110_10    0    total service:100
+0  109_0  108_60  107_40    0    total service:100
+0  106_50  107_50    0    total service:100
+0  106_10  105_90    0    total service:100
+0  104_60  105_0  103_40    0    total service:100
+1  103_50  102_50    1    total service:100
+1  101_90  102_10    1    total service:100
+1  101_0  100_60   99_40    1    total service:100
+1   99_50   98_50    1    total service:100
+1   98_10   97_90    1    total service:100
+1   96_60   97_0   95_40    1    total service:100
+1   95_50   94_50    1    total service:100
+1   93_90   94_10    1    total service:100
+1   93_0   92_60   91_40    1    total service:100
+1   91_50   90_50    1    total service:100
+1   90_10   89_90    1    total service:100
+1   88_60   89_0   87_40    1    total service:100
+1   86_50   87_50    1    total service:100
+1   86_10   85_90    1    total service:100
+1   85_0   84_60   83_40    1    total service:100
+1   82_50   83_50    1    total service:100
+1   81_90   82_10    1    total service:100
+1   81_0   80_60   79_40    1    total service:100
+1   78_50   79_50    1    total service:100
+1   78_10   77_90    1    total service:100
+1   75_40   76_60   77_0    1    total service:100
+1   75_50   74_50    1    total service:100
+1  145_90   74_10    1    total service:100
+1  145_0  144_60  143_40    1    total service:100
+1  142_50  143_50    1    total service:100
+1  142_10  141_90    1    total service:100
+1  141_0  140_60  139_40    1    total service:100
+1  139_50  138_50    1    total service:100
+1  137_90  138_10    1    total service:100

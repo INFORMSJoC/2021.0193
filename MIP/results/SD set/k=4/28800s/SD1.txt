@@ -1,0 +1,39 @@
+Spend time:1.5046677589416504s
+Objective value:14828.427124746191
+Objective bound:14828.427124746191
+X[depot_1,vehicle_1,customer_4,depot_1]:1.0
+X[depot_1,vehicle_1,depot_1,customer_4]:1.0
+X[depot_1,vehicle_2,customer_8,depot_1]:1.0
+X[depot_1,vehicle_2,depot_1,customer_8]:1.0
+X[depot_2,vehicle_1,customer_6,depot_2]:1.0
+X[depot_2,vehicle_1,depot_2,customer_6]:1.0
+X[depot_2,vehicle_2,customer_2,depot_2]:1.0
+X[depot_2,vehicle_2,depot_2,customer_2]:1.0
+X[depot_3,vehicle_1,customer_5,depot_3]:1.0
+X[depot_3,vehicle_1,depot_3,customer_5]:1.0
+X[depot_3,vehicle_2,customer_1,depot_3]:1.0
+X[depot_3,vehicle_2,depot_3,customer_1]:1.0
+X[depot_4,vehicle_1,customer_3,depot_4]:1.0
+X[depot_4,vehicle_1,depot_4,customer_3]:1.0
+X[depot_4,vehicle_2,customer_7,depot_4]:1.0
+X[depot_4,vehicle_2,depot_4,customer_7]:1.0
+service[depot_1,vehicle_1,customer_4]:90.0
+service[depot_1,vehicle_2,customer_8]:90.0
+service[depot_2,vehicle_1,customer_6]:90.0
+service[depot_2,vehicle_2,customer_2]:90.0
+service[depot_3,vehicle_1,customer_5]:60.0
+service[depot_3,vehicle_2,customer_1]:60.0
+service[depot_4,vehicle_1,customer_3]:60.0
+service[depot_4,vehicle_2,customer_7]:60.0
+remain_capacity[depot_1,vehicle_1,customer_4]:89.99999999999989
+remain_capacity[depot_1,vehicle_1,customer_5]:100.0
+remain_capacity[depot_1,vehicle_2,customer_8]:90.0
+remain_capacity[depot_2,vehicle_1,customer_2]:100.0
+remain_capacity[depot_2,vehicle_1,customer_6]:89.99999999999997
+remain_capacity[depot_2,vehicle_2,customer_2]:90.0
+remain_capacity[depot_2,vehicle_2,customer_6]:100.0
+remain_capacity[depot_3,vehicle_1,customer_5]:100.0
+remain_capacity[depot_3,vehicle_2,customer_1]:100.0
+remain_capacity[depot_4,vehicle_1,customer_3]:60.0
+remain_capacity[depot_4,vehicle_2,customer_4]:100.0
+remain_capacity[depot_4,vehicle_2,customer_7]:100.0

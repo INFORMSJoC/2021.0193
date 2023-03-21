@@ -1,0 +1,39 @@
+The minimum cost is:498453
+The run time is:0.015366(s)
+The route and corresponding demands serviced:
+0    9_10    5_90    0    total service:100
+0   11_10    7_90    0    total service:100
+2    8_40    4_60    2    total service:100
+2   16_20   12_60    8_20    2    total service:100
+3   10_40    6_60    3    total service:100
+3   18_20   14_60   10_20    3    total service:100
+1   13_20    9_80    1    total service:100
+0   15_20   11_80    0    total service:100
+1   17_30   13_70    1    total service:100
+0   19_30   15_70    0    total service:100
+2   20_60   16_40    2    total service:100
+3   22_60   18_40    3    total service:100
+1   21_40   17_60    1    total service:100
+0   23_40   19_60    0    total service:100
+2   28_40   24_60   20_0    2    total service:100
+3   30_40   26_60   22_0    3    total service:100
+1   25_50   21_50    1    total service:100
+0   27_50   23_50    0    total service:100
+1   29_60   25_40    1    total service:100
+0   31_60   27_40    0    total service:100
+2   36_20   32_60   28_20    2    total service:100
+3   38_20   34_60   30_20    3    total service:100
+1   33_70   29_30    1    total service:100
+0   35_70   31_30    0    total service:100
+1   37_80   33_20    1    total service:100
+0   39_80   35_20    0    total service:100
+2   40_60   36_40    2    total service:100
+3   42_60   38_40    3    total service:100
+1   41_90   37_10    1    total service:100
+2   48_40   44_60   40_0    2    total service:100
+3   50_40   46_60   42_0    3    total service:100
+2   43_90   39_10    2    total service:100
+1   49_10   45_90   41_0    1    total service:100
+2   51_10   47_90   43_0    2    total service:100
+3   51_80   50_20    3    total service:100
+3   48_20   49_80    3    total service:100

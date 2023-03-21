@@ -1,0 +1,6 @@
+data description
+
+Each route is presented as follows:
+
+depot number     customer number_demand allocated  ........  customer number_demand allocated   depot number
+total demand served by the vehicle allocated to this route

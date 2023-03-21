@@ -1,0 +1,8 @@
+k=2   
+line 1: customer number //     capacity  //  vehicle numer in depot 1   //vehicle number in depot 2
+line 2: demands for customers
+line 3 : coordinate of depot 1
+line 4:  coordinate of depot  2
+line 5: coordinate of customer 1
+...
+
