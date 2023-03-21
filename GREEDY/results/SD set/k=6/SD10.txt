@@ -1,0 +1,51 @@
+The minimum cost is:244913
+The run time is:0.04123(s)
+The route and corresponding demands serviced:
+2    7_40    6_60    2    total service:100
+2    8_50    7_50    2    total service:100
+3   13_40   14_60    3    total service:100
+3   12_50   13_50    3    total service:100
+3   16_10   15_90    3    total service:100
+2   20_10   21_90    2    total service:100
+1    9_90    8_10    1    total service:100
+5   11_90   12_10    5    total service:100
+4   19_50   20_50    4    total service:100
+1   23_40   24_60    1    total service:100
+5   29_40   28_60    5    total service:100
+4   37_40   36_60    4    total service:100
+1   10_60   11_0   27_40    9_0    1    total service:100
+4   18_60   19_40    4    total service:100
+3   17_50   16_50    3    total service:100
+1   22_50   23_50    1    total service:100
+1   26_10   25_90    1    total service:100
+5   26_50   27_50    5    total service:100
+5   30_50   29_50    5    total service:100
+4   34_10   35_90    4    total service:100
+4   22_10   38_40   37_50    4    total service:100
+0   18_0   33_60   17_40    0    total service:100
+3   31_90   30_10    3    total service:100
+3   32_60   48_40   31_0    3    total service:100
+1   58_40   42_60   26_0    1    total service:100
+4   33_30   49_20   34_50    4    total service:100
+1   56_40   40_60    1    total service:100
+5   60_40   44_60    5    total service:100
+4   68_40   52_60    4    total service:100
+4   69_10   53_90    4    total service:100
+1   55_10   39_90    1    total service:100
+5   59_10   43_90    5    total service:100
+5   61_10   45_90    5    total service:100
+2   55_20   54_60   38_20    2    total service:100
+3   62_40   46_60    3    total service:100
+3   63_10   47_90    3    total service:100
+5   59_80   60_20    5    total service:100
+2   57_10   41_90    2    total service:100
+2   67_10   51_90    2    total service:100
+0   65_30   49_70    0    total service:100
+0   63_20   64_60   48_20    0    total service:100
+0   66_40   50_60    0    total service:100
+2   68_20   69_80    2    total service:100
+2   57_20   56_20   55_60    2    total service:100
+0   61_20   59_0   58_20   57_60    0    total service:100
+0   63_20   62_20   61_60    0    total service:100
+0   67_20   66_20   65_60    0    total service:100
+0   67_60   63_40    0    total service:100
